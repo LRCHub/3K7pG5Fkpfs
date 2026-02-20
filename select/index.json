@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "夕凪",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T12:53:50.532130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_夕凪、某、花惑い_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_夕凪、某、花惑い_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_夕凪_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_夕凪_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yuunagi [夕凪]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Yuunagi_[夕凪]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yuunagi (夕凪)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_Yuunagi_(夕凪)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/07_夕凪_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い (傍晚风平浪静、某处、烟火)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/08_夕凪、某、花惑い_(傍晚风平浪静、某处、烟火)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "Choro Club",
+      "has_synced": false,
+      "path": "select/09_夕凪_Choro_Club.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/10_夕凪_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/11_夕凪_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夕凪、アンサンブル",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/12_夕凪、アンサンブル_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い (Evening calm,Somewhere,Fireworks)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/13_夕凪、某、花惑い_(Evening_calm,Somewhere,Fireworks)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/14_夕凪_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "夕凪、慕情",
+      "artist": "碧海祐人",
+      "has_synced": false,
+      "path": "select/15_夕凪、慕情_碧海祐人.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "宇多田 ヒカル",
+      "has_synced": true,
+      "path": "select/16_夕凪_宇多田_ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/17_夕凪_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "夕凪",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/18_夕凪_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "夕凪、某、花惑い - Evening calm,Somewhere,Fireworks",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/19_夕凪、某、花惑い_-_Evening_calm,Somewhere,Fireworks_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕凪",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_夕凪_04_Limited_Sazabys.txt"
+    }
+  ]
+}
